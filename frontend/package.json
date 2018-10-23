@@ -1,0 +1,21 @@
+{
+  "name": "andydang.ca",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 7777",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "andy",
+    "dang"
+  ],
+  "author": "andy dang",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "styled-components": "^4.0.2"
+  }
+}
